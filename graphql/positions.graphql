@@ -1,0 +1,8 @@
+query Positions {
+  applicantIndividualCompanyPositions {
+    data {
+      name
+      id
+    }
+  }
+}
